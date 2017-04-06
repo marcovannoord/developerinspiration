@@ -12,3 +12,8 @@ Creator of Python, developer at Dropbox
 ### Mike Bayer
 Creator of SQLAlchemy  
 [Mike Bayer's website](http://techspot.zzzeek.org/)
+
+
+### Robin de Boer
+Creator of this page  
+[Robin de Boer's website](http://www.robindeboer.nl/)
